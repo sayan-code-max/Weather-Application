@@ -10,7 +10,8 @@ body
 {
     height: 100vh;
     width: 100%;
-    background-image: url('vecteezy_rain-drops-fall-on-a-hand-and-fingers-of-a-man_6291315.gif');
+/*     background-image: url('vecteezy_rain-drops-fall-on-a-hand-and-fingers-of-a-man_6291315.gif'); */
+    background-color: rgb(32, 29, 43);
     background-repeat:no-repeat;
     background-size:cover;
     display: flex;
